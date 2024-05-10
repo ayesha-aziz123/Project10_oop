@@ -1,2 +1,2 @@
 # Project10_oop
-this
+This is Project with TypeScript in Console App .
